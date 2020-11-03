@@ -606,7 +606,7 @@
          "type":"Feature",
          "id": 7,
          "properties":{
-            "name":"Enclos-St-Laurent",
+            "name":"Entrepôt",
             "cartodb_id":10,
             "created_at":"2013-02-26T07:07:16.384Z",
             "updated_at":"2013-02-26T18:37:05.756Z"
@@ -1339,7 +1339,7 @@
          "type":"Feature",
          "id": 14,
          "properties":{
-            "name":"Butte-Montmartre",
+            "name":"Buttes-Montmartre",
             "cartodb_id":18,
             "created_at":"2013-02-26T07:07:16.384Z",
             "updated_at":"2013-02-26T18:37:52.398Z"
