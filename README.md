@@ -1,5 +1,5 @@
 # Analysis of Paris Airbnb market
-
+medium blog link : https://medium.com/@mathieurella.mr/little-secrets-about-airbnb-paris-listings-6369400dbc93
 ## Table of Contents
 
  - The Libraries That I Have Used
